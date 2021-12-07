@@ -1,0 +1,22 @@
+{
+  "name": "santas_magic_shuffler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "magicshuffler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HES-DD/santas_magic_shuffler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HES-DD/santas_magic_shuffler/issues"
+  },
+  "homepage": "https://github.com/HES-DD/santas_magic_shuffler#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
